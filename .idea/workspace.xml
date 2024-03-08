@@ -4,11 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="795bddfc-d597-4e5e-8101-1ba246851cfb" name="Changes" comment="" />
+    <list default="true" id="795bddfc-d597-4e5e-8101-1ba246851cfb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_7/ExerciseWithJavalinAndCrud_MONDAY/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week_7/ExerciseWithJavalinAndCrud_MONDAY/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_7/ExerciseWithJavalinAndCrud_MONDAY/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week_7/ExerciseWithJavalinAndCrud_MONDAY/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_7/ExerciseWithJavalinAndCrud_Wednesday/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week_7/ExerciseWithJavalinAndCrud_Wednesday/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_7/ExerciseWithJavalinAndCrud_Wednesday/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week_7/ExerciseWithJavalinAndCrud_Wednesday/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Week_7/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -17,21 +33,39 @@
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2dDWxzrA7wXw0Am4Nskf2nN0b6n" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaVariableFindUsagesOptions.isSearchInOverridingMethods": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ShowUsagesActions.previewPropertyKey": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "C:/Users/45424/IdeaProjects/Torsdagsopgaver/src/main/java/org/example/Main.java",
+    "jdk.selected.JAVA_MODULE": "corretto-19",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/45424/IdeaProjects/Torsdagsopgaver/Week_7/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="Handler" />
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,9 +74,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709543380362</updated>
-      <workItem from="1709543381466" duration="2000" />
+      <workItem from="1709543381466" duration="20595000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
